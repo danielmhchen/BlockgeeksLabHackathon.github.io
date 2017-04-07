@@ -20,7 +20,7 @@ Where: [MaRS Discovery District, Toronto Canada](https://https://www.marsdd.com)
 5. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) at a maximum of 100 KLoc
 
 
-## How it works for you
+## How to use it on your code
 
 1. Mail your team name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to get Pro access for private repo's
 
