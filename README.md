@@ -13,12 +13,14 @@ Where: [MaRS Discovery District, Toronto Canada](https://https://www.marsdd.com)
 
 2. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
-3. You can check your code against the guidelines using Better Code Hub, a [GitHub.com integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu). Better Code Hub integrates with the GitHub Flow and can run at Pull Requests and Commits.
+3. You can check your code against the guidelines using Better Code Hub, a [GitHub.com integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu). 
 
-4. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) at a maximum of 100 KLoc
+4. Better Code Hub integrates with the GitHub Flow and can run at Pull Requests and Commits.
+
+5. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) at a maximum of 100 KLoc
 
 
-## How it works
+## How it works for you
 
 1. Mail your team name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to get Pro access for private repo's
 
