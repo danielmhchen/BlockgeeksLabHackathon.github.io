@@ -2,7 +2,7 @@
 
 What: Better Code Hub - 10 guidelines for building future-proof code
 
-When: 21 & 22 April 2017 during [Blockgeeks Lab Hackathin](http://bglhackathon.com)
+When: 21 & 22 April 2017 during [Blockgeeks Lab Hackathon](http://bglhackathon.com)
 
 Where: [MaRS Discovery District, Toronto Canada](https://https://www.marsdd.com)
 
