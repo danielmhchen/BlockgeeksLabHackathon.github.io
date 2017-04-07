@@ -1,4 +1,4 @@
-# Analyse code quality with Better Code Hub.
+# Analyze code quality with Better Code Hub.
 
 What: Better Code Hub - 10 guidelines for building future-proof code
 
