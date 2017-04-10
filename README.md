@@ -1,5 +1,3 @@
-# Introducing Better Code Hub
-
 **What**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu).
 
 **When**: 21 & 22 April 2017 during [Blockgeeks Lab Hackathon](http://bglhackathon.com)
