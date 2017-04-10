@@ -25,9 +25,9 @@ The guidelines are described in full in the book [“Building Maintainable Softw
 
 ## Planning to use a private repository? 
 
-1. E-mail your team name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to get Pro access. 
+1. Before the event: e-mail your team name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to get Pro access. 
 
-2. Put your public or private repo on Github in your profile.
+2. During the event: go to the local hackathon staff and share your Github handle to get Pro access.
 
 3. Go to [bettercodehub.com](https://bettercodehub.com) 
 
