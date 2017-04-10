@@ -25,7 +25,7 @@ The guidelines are described in full in [“Building Maintainable Software”](h
 
 ## Planning to use a private repository? Read below: 
 
-1. If you will use private repositories, e-mail your team name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to get Pro access. 
+1. E-mail your team name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to get Pro access. 
 
 2. Put your public or private repo on Github in your profile.
 
@@ -38,9 +38,11 @@ The guidelines are described in full in [“Building Maintainable Software”](h
 6. Your Pro access to Better Code Hub remains valid for *6 months*
 
 
-## Why Blockchain needs future-proof code
+## Background reading 
 
-Read more on Medium [Why Blockchain needs Future-Proof Code](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
+Why look at the quality of Blockchain implementations? [Here's](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
+
+Has this been done before in the context of Hackathons? Yes, [Here's a write-up](https://medium.com/softwareimprovementgroup/how-a-hackathon-appreciates-quality-code-bd1bdb8b3479)
 
 Let's build some great software!
 
