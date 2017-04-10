@@ -2,7 +2,7 @@
 
 **When**: 21 & 22 April 2017 during [Blockgeeks Lab Hackathon](http://bglhackathon.com)
 
-**Where**: [MaRS Discovery District, Toronto Canada](https://https://www.marsdd.com)
+**Where**: [MaRS Discovery District, Toronto Canada](https://marsdd.com)
 
 ## How does it work?
 
