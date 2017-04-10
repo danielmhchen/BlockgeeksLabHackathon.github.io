@@ -1,23 +1,26 @@
-# Analyze code quality with Better Code Hub.
+# Introducing Better Code Hub
 
-What: Better Code Hub - 10 guidelines for building future-proof code
+What: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu) 
 
 When: 21 & 22 April 2017 during [Blockgeeks Lab Hackathon](http://bglhackathon.com)
 
 Where: [MaRS Discovery District, Toronto Canada](https://https://www.marsdd.com)
 
 
-## How your code is evaluated
+## Practicalities
 
-1. Your code will be evaluated against 10 guidelines for building future-proof code. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) (get your free copy during the event)
+* Your code will be evaluated against 10 guidelines for building maintainable software:
+![guidelines](https://cdn-images-1.medium.com/max/720/1*TS-ZTeI7sQS7dy_AlMqSXQ.png "The 10 guidelines")
 
-2. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
+The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) (get your free copy during the event!)
 
-3. You can check your code against the guidelines using Better Code Hub, a [GitHub.com integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu). 
+* Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. 
 
-4. Better Code Hub integrates with the GitHub Flow and can run at Pull Requests and Commits.
+* If you want Better Code Hub to run for every Push and Pull Request on your repo (just like Travis CI), click the ⚙ icon and toggle the switch:
 
-5. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) at a maximum of 100 KLoc
+![githubflow](https://cdn-images-1.medium.com/max/720/1*N4wz389i80UbXKnjSp_QoA.png "Activate GitHub flow")
+
+* 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) at a maximum of 100 KLoc
 
 
 ## How to use it on your code
