@@ -40,9 +40,9 @@ The guidelines are described in full in [“Building Maintainable Software”](h
 
 ## Background reading 
 
-Why look at the quality of Blockchain implementations? [Here's](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
+Why look at the quality of Blockchain implementations? [Here's our answer.](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
 
-Has this been done before in the context of Hackathons? Yes, [Here's a write-up](https://medium.com/softwareimprovementgroup/how-a-hackathon-appreciates-quality-code-bd1bdb8b3479)
+Has this been done before in the context of Hackathons? Yes, [Here's a write-up.](https://medium.com/softwareimprovementgroup/how-a-hackathon-appreciates-quality-code-bd1bdb8b3479)
 
 Let's build some great software!
 
