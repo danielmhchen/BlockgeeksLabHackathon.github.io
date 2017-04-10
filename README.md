@@ -23,7 +23,7 @@ The guidelines are described in full in [“Building Maintainable Software”](h
 * 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual). Max repo size is 100,000 lines of code. 
 
 
-## Planning to use a private repository? Read below: 
+## Planning to use a private repository? 
 
 1. E-mail your team name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to get Pro access. 
 
@@ -43,6 +43,10 @@ The guidelines are described in full in [“Building Maintainable Software”](h
 Why look at the quality of Blockchain implementations? [Here's our answer.](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
 
 Has this been done before in the context of Hackathons? Yes, [Here's a write-up.](https://medium.com/softwareimprovementgroup/how-a-hackathon-appreciates-quality-code-bd1bdb8b3479)
+
+## Feedback 
+
+Don't hesitate to send us feedback about our platform at bettercodehub@sig.eu. 
 
 Let's build some great software!
 
