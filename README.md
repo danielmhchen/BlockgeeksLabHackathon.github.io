@@ -4,6 +4,13 @@
 
 **Where**: [MaRS Discovery District, Toronto Canada](https://marsdd.com)
 
+## Why look at code quality 
+
+Why look at the quality of Blockchain implementations? [Here's our answer.](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
+
+Has this been done before in the context of Hackathons? Yes, [Here's a write-up.](https://medium.com/softwareimprovementgroup/how-a-hackathon-appreciates-quality-code-bd1bdb8b3479)
+
+
 ## How does it work?
 
 * Your code will be evaluated for compliance with these 10 guidelines for building maintainable software:
@@ -36,11 +43,7 @@ The guidelines are described in full in the book [“Building Maintainable Softw
 6. Your Pro access to Better Code Hub remains valid for *6 months*
 
 
-## Background reading 
 
-Why look at the quality of Blockchain implementations? [Here's our answer.](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
-
-Has this been done before in the context of Hackathons? Yes, [Here's a write-up.](https://medium.com/softwareimprovementgroup/how-a-hackathon-appreciates-quality-code-bd1bdb8b3479)
 
 ## Feedback 
 
