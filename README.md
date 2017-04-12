@@ -4,7 +4,7 @@
 
 **Where**: [MaRS Discovery District, Toronto Canada](https://marsdd.com)
 
-## Why look at code quality 
+## Why look at code quality during a BlockChain Hackathon?
 
 Why look at the quality of Blockchain implementations? [Here's our answer.](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
 
