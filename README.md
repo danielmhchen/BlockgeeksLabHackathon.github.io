@@ -12,7 +12,7 @@ Because our society needs solutions that are innovative and sustainable
 
 * Has this been done before in the context of Hackathons? Yes, [Here's a write-up.](https://medium.com/softwareimprovementgroup/how-a-hackathon-appreciates-quality-code-bd1bdb8b3479)
 
-## Working with public or private repos ?
+## Working with public or private repositories ?
 
 * Working with public repos? No registration is needed. Just goto [BetterCodeHub.com](https://bettercodehub.com) and login [FREE] with your GitHub credentials
 
