@@ -32,7 +32,7 @@ Your code will be automatically evaluated for compliance with these 10 guideline
 The guidelines are described in full in the book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) (get your free copy during the event!)
 
 
-## How to setup
+## How to setup, configure PR and exclude files?
 
 Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. 
 
@@ -40,9 +40,9 @@ Using Better Code Hub is easy. Head over to [bettercodehub.com](https://betterco
 
 ![githubflow](https://cdn-images-1.medium.com/max/720/1*N4wz389i80UbXKnjSp_QoA.png "Activate GitHub flow")
 
-Better Code Hub analyses all the code that is in your repository. This might include all the external libraries that you use (CocoaPods are excluded by default (go heuristics!)).
-
 * Exluding files via .yml
+
+Better Code Hub analyses all the code that is in your repository. This might include all the external libraries that you use (CocoaPods are excluded by default (go heuristics!)).
 
 First do an initial analysis of your repository, so the "Analysis configuration" option becomes available. Then you can exclude these files by making a **.bettercodehub.yml** in the root of your repository. The code that goes into this file, can be generated under "Analysis configuration" under "Settings" in Better Code Hub:
 
@@ -74,7 +74,6 @@ This might look like:
 5. If needed, get support through bettercodehub@sig.eu
 
 6. Your Pro access to Better Code Hub remains valid for *6 months*
-
 
 
 
