@@ -14,8 +14,9 @@ Because our society needs solutions that are innovative and sustainable
 
 
 ## How does it work?
+Better Code Hub supports [16 modern programming languages](https://bettercodehub.com/docs/configuration-manual). Max repo size is 100,000 lines of code. 
 
-Your code will be automatically evaluated for compliance with these 10 guidelines for building maintainable software:
+Your code will be automatically evaluated for compliance with these 10 guidelines for building maintainable software: 
 
 * Write Short Units of Code
 * Write Simple Units of Code
@@ -30,17 +31,18 @@ Your code will be automatically evaluated for compliance with these 10 guideline
 
 The guidelines are described in full in the book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) (get your free copy during the event!)
 
-* Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. 
+
+## How to setup
+
+Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. 
 
 * If you want Better Code Hub to run for every Push and Pull Request on your repo, click the ⚙ icon and toggle the switch:
 
 ![githubflow](https://cdn-images-1.medium.com/max/720/1*N4wz389i80UbXKnjSp_QoA.png "Activate GitHub flow")
 
-* 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual). Max repo size is 100,000 lines of code. 
-
-## Setup
-
 Better Code Hub analyses all the code that is in your repository. This might include all the external libraries that you use (CocoaPods are excluded by default (go heuristics!)).
+
+* Exluding files via .yml
 
 First do an initial analysis of your repository, so the "Analysis configuration" option becomes available. Then you can exclude these files by making a **.bettercodehub.yml** in the root of your repository. The code that goes into this file, can be generated under "Analysis configuration" under "Settings" in Better Code Hub:
 
