@@ -32,7 +32,7 @@ Your code will be automatically evaluated for compliance with these 10 guideline
 * Couple Architecture Components Loosely
 * Keep Architecture Components Balanced
 * Keep Your Codebase Small
-* Automate Tests (You can ignore this guideline for now, since it is not in the scope of this course.)
+* Automate Tests
 * Write Clean Code
 
 The guidelines are described in full in the book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) (get your free copy during the event!)
