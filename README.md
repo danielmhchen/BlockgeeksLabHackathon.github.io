@@ -4,7 +4,7 @@
 
 **Where**: [MaRS Discovery District, Toronto Canada](https://marsdd.com).
 
-With Better Code Hub, you can check how good is your team's code in raport with the state of the art in software engineering. If Better Code Hub says you're compliant (✅) then it means you're performing like the top teams in the industry with regards to 10 guidelines for Maintainable Software. 
+With Better Code Hub, you can check how good is your team's code in raport with the state of the art in software engineering. If Better Code Hub says you're compliant (✅) then it means you're performing like the top teams in the industry. It is based on 10 guidelines for Maintainable Software. 
 
 ![10 guidelines](https://cdn-images-1.medium.com/max/1440/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
