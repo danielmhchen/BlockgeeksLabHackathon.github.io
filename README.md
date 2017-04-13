@@ -63,7 +63,7 @@ Of course, you can create the configuration file directly, and place it to the r
 ## We'd like to hear from you
 Don't hesitate to send us feedback at [bettercodehub@sig.eu](mailto://bettercodehub@sig.eu]). 
 
-Let's build some great software 😊!
+**Let's build some great software** 😊!
 
 Go, go, go! 
 
