@@ -15,7 +15,7 @@ Because our society needs solutions that are innovative and sustainable
 
 ## How does it work?
 
-* Your code will be evaluated for compliance with these 10 guidelines for building maintainable software:
+Your code will be automatically evaluated for compliance with these 10 guidelines for building maintainable software:
 
 * Write Short Units of Code
 * Write Simple Units of Code
