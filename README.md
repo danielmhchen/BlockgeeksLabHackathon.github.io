@@ -58,12 +58,13 @@ Of course, you can create the configuration file directly, and place it to the r
 ## Support and PRO License 
 
 * If needed, get support through bettercodehub@sig.eu
-* Your Pro access to Better Code Hub remains valid for *6 months* after the Blockgeekslab Hackathon 2017
+* Your Pro access to Better Code Hub remains valid for *6 months* after the Hackathon
 
 ## We'd like to hear from you
 Don't hesitate to send us feedback at [bettercodehub@sig.eu](mailto://bettercodehub@sig.eu]). 
 
 Let's build some great software 😊!
+
 Go, go, go! 
 
 [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
