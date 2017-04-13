@@ -8,8 +8,12 @@ With Better Code Hub, you can check how good is your team's code in raport with 
 
 Compliance to guidelines is derived from the Software Improvement Group's industry benchmark (8 billion lines of code in more than 180 different technologies). 
 
+## Supported Languages
 
-##If you're on GitHub you're good to go
+![Languages](languages.png)
+
+
+## If you're on GitHub you're good to go
 
 * Public repo? Just go to [BetterCodeHub.com](https://bettercodehub.com) and login [FREE] with your GitHub account.
 
