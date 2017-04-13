@@ -12,6 +12,12 @@ Because our society needs solutions that are innovative and sustainable
 
 * Has this been done before in the context of Hackathons? Yes, [Here's a write-up.](https://medium.com/softwareimprovementgroup/how-a-hackathon-appreciates-quality-code-bd1bdb8b3479)
 
+## Evaluation of public or private repos ?
+
+* Working with public repos? No registration is needed. Just goto [BetterCodeHub.com](https://bettercodehub) and login [FREE] with your GitHub credentials
+
+* Working with private repository? Share your Github handle to get [Pro] access. Before the event: e-mail your team name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: go to the local hackathon staff and share your Github handle to get Pro access. 
+
 
 ## How does evaluation work?
 Better Code Hub supports [16 modern programming languages](https://bettercodehub.com/docs/configuration-manual). Max repo size is 100,000 lines of code. 
@@ -60,27 +66,19 @@ This might look like:
 
 For more details on configuration check our [configuration manual](https://bettercodehub.com/docs/configuration-manual)
 
-## Planning to use a private repository? 
 
-1. Before the event: e-mail your team name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to get Pro access. 
+## Support and PRO License 
 
-2. During the event: go to the local hackathon staff and share your Github handle to get Pro access.
+* If needed, get support through bettercodehub@sig.eu
 
-3. Go to [bettercodehub.com](https://bettercodehub.com) 
-
-4. Improve code! 😊
-
-5. If needed, get support through bettercodehub@sig.eu
-
-6. Your Pro access to Better Code Hub remains valid for *6 months*
+* Your Pro access to Better Code Hub remains valid for *6 months* after the Blockgeekslab Hackathon 2017
 
 
-
-## Feedback 
+## Feedback on Better Code Hub
 
 Don't hesitate to send us feedback about our platform at bettercodehub@sig.eu. 
 
-Let's build some great software!
+Let's build some great software 😊!
 
 [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
 
