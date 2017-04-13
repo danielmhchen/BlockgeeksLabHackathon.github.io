@@ -18,7 +18,7 @@ Compliance to guidelines is derived from the Software Improvement Group's indust
 
 ![Languages](languages.png)
 
-## If you're on GitHub you're good to go
+## If you're on GitHub you're good to go ![octo](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
 
 * **Public** repo? Just go to [BetterCodeHub.com](https://bettercodehub.com) and login [FREE] with your GitHub account.
 
