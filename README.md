@@ -29,6 +29,26 @@ The guidelines are described in full in the book [“Building Maintainable Softw
 
 * 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual). Max repo size is 100,000 lines of code. 
 
+## Setup
+
+Better Code Hub analyses all the code that is in your repository. This might include all the external libraries that you use (CocoaPods are excluded by default (go heuristics!)).
+
+First do an initial analysis of your repository, so the "Analysis configuration" option becomes available. Then you can exclude these files by making a **.bettercodehub.yml** in the root of your repository. The code that goes into this file, can be generated under "Analysis configuration" under "Settings" in Better Code Hub:
+
+![BCH Config](yml.png)
+
+This might look like:
+
+`exclude:`
+
+`- /mylibrary/src/.*`
+
+`component_depth: 1`
+
+`languages:`
+
+`- java`
+
 
 ## Planning to use a private repository? 
 
