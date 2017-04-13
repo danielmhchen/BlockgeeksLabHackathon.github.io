@@ -14,9 +14,9 @@ Because our society needs solutions that are innovative and sustainable
 
 ## Evaluation of public or private repos ?
 
-* Working with public repos? No registration is needed. Just goto [BetterCodeHub.com](https://bettercodehub) and login [FREE] with your GitHub credentials
+* Working with public repos? No registration is needed. Just goto [BetterCodeHub.com](https://bettercodehub.com) and login [FREE] with your GitHub credentials
 
-* Working with private repository? Share your Github handle to get [Pro] access. Before the event: e-mail your team name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: go to the local hackathon staff and share your Github handle to get Pro access. 
+* Working with private repository? Share your Github handle to get [PRO] access. Before the event: e-mail your team name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: go to the local hackathon staff and share your Github handle to get Pro access. 
 
 
 ## How does evaluation work?
