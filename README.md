@@ -4,19 +4,16 @@
 
 **Where**: [MaRS Discovery District, Toronto Canada](https://marsdd.com)
 
-## Why look at code quality?
+With Better Code Hub, you can check how good is your team's code in raport with the state of the art in software engineering. If Better Code Hub says you're compliant (✅) then it means you're performing like the top teams in the industry. 
 
-Because our society needs solutions that are innovative and sustainable
+Compliance to guidelines is derived from the Software Improvement Group's industry benchmark (8 billion lines of code in more than 180 different technologies). 
 
-* Why look at the quality of Blockchain implementations? [Here's our answer.](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
 
-* Has this been done before in the context of Hackathons? Yes, [Here's a write-up.](https://medium.com/softwareimprovementgroup/how-a-hackathon-appreciates-quality-code-bd1bdb8b3479)
+##If you're on GitHub you're good to go
 
-## Working with public or private repos ?
+* Public repo? Just go to [BetterCodeHub.com](https://bettercodehub.com) and login [FREE] with your GitHub account.
 
-* Working with public repos? No registration is needed. Just goto [BetterCodeHub.com](https://bettercodehub.com) and login [FREE] with your GitHub credentials
-
-* Working with private repository? Share your Github handle to get [PRO] access. Before the event: e-mail your name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: go to the local hackathon staff and share your Github handle to get Pro access. 
+* Private? Share your Github handle to get [PRO] access. Before the event: e-mail your name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: go to the local Hackathon staff with the handles.
 
 
 ## How does evaluation work?
@@ -73,6 +70,13 @@ For more details on configuration check our [configuration manual](https://bette
 
 * Your Pro access to Better Code Hub remains valid for *6 months* after the Blockgeekslab Hackathon 2017
 
+## Why look at code quality?
+
+Because our society needs solutions that are innovative and sustainable
+
+* Why look at the quality of Blockchain implementations? [Here's our answer.](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
+
+* Has this been done before in the context of Hackathons? Yes, [Here's a write-up.](https://medium.com/softwareimprovementgroup/how-a-hackathon-appreciates-quality-code-bd1bdb8b3479)
 
 ## Feedback on Better Code Hub
 
