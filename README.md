@@ -28,7 +28,7 @@ Compliance to guidelines is derived from the Software Improvement Group's indust
 
 Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. 
 
-* If you want Better Code Hub to run for every Push and Pull Request on your repo, click the ⚙ icon and toggle the switch:
+If you want Better Code Hub to run for every Push and Pull Request on your repo, click the ⚙ icon and toggle the switch:
 
 ![githubflow](https://cdn-images-1.medium.com/max/720/1*N4wz389i80UbXKnjSp_QoA.png "Activate GitHub flow")
 
