@@ -17,7 +17,16 @@ Because our society needs solutions that are innovative and sustainable
 
 * Your code will be evaluated for compliance with these 10 guidelines for building maintainable software:
 
-![guidelines](https://cdn-images-1.medium.com/max/720/1*TS-ZTeI7sQS7dy_AlMqSXQ.png "The 10 guidelines")
+* Write Short Units of Code
+* Write Simple Units of Code
+* Write Code Once
+* Keep Unit Interfaces Small
+* Separate Concerns in Modules
+* Couple Architecture Components Loosely
+* Keep Architecture Components Balanced
+* Keep Your Codebase Small
+* Automate Tests (You can ignore this guideline for now, since it is not in the scope of this course.)
+* Write Clean Code
 
 The guidelines are described in full in the book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) (get your free copy during the event!)
 
