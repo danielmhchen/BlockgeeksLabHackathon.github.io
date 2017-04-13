@@ -4,16 +4,16 @@
 
 **Where**: [MaRS Discovery District, Toronto Canada](https://marsdd.com)
 
-With Better Code Hub, you can check how good is your team's code in raport with the state of the art in software engineering. If Better Code Hub says you're compliant (✅) then it means you're performing like the top teams in the industry. Compliance to guidelines is derived from the Software Improvement Group's industry benchmark (8 billion lines of code in more than 180 different technologies). 
+With Better Code Hub, you can check how good is your team's code in raport with the state of the art in software engineering. If Better Code Hub says you're compliant (✅) then it means you're performing like the top teams in the industry. 
+
+Compliance to guidelines is derived from the Software Improvement Group's industry benchmark (8 billion lines of code in more than 180 different technologies). 
 
 
+##If you're on GitHub you're good to go
 
+* Public repo? Just go to [BetterCodeHub.com](https://bettercodehub.com) and login [FREE] with your GitHub account.
 
-## Working with public or private repositories ?
-
-* Working with public repos? No registration is needed. Just goto [BetterCodeHub.com](https://bettercodehub.com) and login [FREE] with your GitHub credentials
-
-* Working with private repository? Share your Github handle to get [PRO] access. Before the event: e-mail your name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: go to the local hackathon staff and share your Github handle to get Pro access. 
+* Private? Share your Github handle to get [PRO] access. Before the event: e-mail your name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: go to the local Hackathon staff with the handles.
 
 
 ## How does evaluation work?
