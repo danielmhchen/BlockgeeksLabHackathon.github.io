@@ -4,6 +4,12 @@
 
 **Where**: [MaRS Discovery District, Toronto Canada](https://marsdd.com)
 
+With Better Code Hub, you can check how good is your team's code in raport with the state of the art in software engineering. If Better Code Hub says you're compliant (✅) then it means you're performing like the top teams in the industry. Compliance to guidelines is derived from the Software Improvement Group's industry benchmark which consists of over 8 billion lines of code in more than 180 different technologies. SIG analyzes around 15 million lines of code every week.
+
+
+
+
+
 ## Why look at code quality?
 
 Because our society needs solutions that are innovative and sustainable
