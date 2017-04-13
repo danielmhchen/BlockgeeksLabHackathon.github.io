@@ -6,8 +6,6 @@
 
 With Better Code Hub, you can check how good is your team's code in raport with the state of the art in software engineering. If Better Code Hub says you're compliant (✅) then it means you're performing like the top teams in the industry with regards to 10 guidelines for Maintainable Software. 
 
-## The 10 guidelines
-
 ![10 guidelines](https://cdn-images-1.medium.com/max/1440/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
 The guidelines are described in full in the book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) - be sure to get your copy during the event! 
