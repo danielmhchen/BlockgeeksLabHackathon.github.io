@@ -20,9 +20,9 @@ Compliance to guidelines is derived from the Software Improvement Group's indust
 
 ## If you're on GitHub you're good to go
 
-* Public repo? Just go to [BetterCodeHub.com](https://bettercodehub.com) and login [FREE] with your GitHub account.
+* **Public** repo? Just go to [BetterCodeHub.com](https://bettercodehub.com) and login [FREE] with your GitHub account.
 
-* Private? Share your Github handle to get [PRO] access. Before the event: e-mail your name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: go to the local Hackathon staff with the handles.
+* **Private**? Share your Github handle to get [PRO] access. Before the event: e-mail your name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: go to the local Hackathon staff with the handles.
 
 ## Zero set-up time
 
