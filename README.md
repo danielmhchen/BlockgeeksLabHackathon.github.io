@@ -4,19 +4,10 @@
 
 **Where**: [MaRS Discovery District, Toronto Canada](https://marsdd.com)
 
-With Better Code Hub, you can check how good is your team's code in raport with the state of the art in software engineering. If Better Code Hub says you're compliant (✅) then it means you're performing like the top teams in the industry. Compliance to guidelines is derived from the Software Improvement Group's industry benchmark which consists of over 8 billion lines of code in more than 180 different technologies. SIG analyzes around 15 million lines of code every week.
+With Better Code Hub, you can check how good is your team's code in raport with the state of the art in software engineering. If Better Code Hub says you're compliant (✅) then it means you're performing like the top teams in the industry. Compliance to guidelines is derived from the Software Improvement Group's industry benchmark (8 billion lines of code in more than 180 different technologies). 
 
 
 
-
-
-## Why look at code quality?
-
-Because our society needs solutions that are innovative and sustainable
-
-* Why look at the quality of Blockchain implementations? [Here's our answer.](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
-
-* Has this been done before in the context of Hackathons? Yes, [Here's a write-up.](https://medium.com/softwareimprovementgroup/how-a-hackathon-appreciates-quality-code-bd1bdb8b3479)
 
 ## Working with public or private repositories ?
 
@@ -79,6 +70,13 @@ For more details on configuration check our [configuration manual](https://bette
 
 * Your Pro access to Better Code Hub remains valid for *6 months* after the Blockgeekslab Hackathon 2017
 
+## Why look at code quality?
+
+Because our society needs solutions that are innovative and sustainable
+
+* Why look at the quality of Blockchain implementations? [Here's our answer.](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
+
+* Has this been done before in the context of Hackathons? Yes, [Here's a write-up.](https://medium.com/softwareimprovementgroup/how-a-hackathon-appreciates-quality-code-bd1bdb8b3479)
 
 ## Feedback on Better Code Hub
 
