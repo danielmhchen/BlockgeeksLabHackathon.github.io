@@ -10,7 +10,7 @@ With Better Code Hub, you can check how good is your team's code in raport with 
 
 The guidelines are described in full in the book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) - be sure to get your copy during the event! 
 
-Compliance to guidelines is derived from the Software Improvement Group's industry benchmark (8 billion lines of code in more than 180 different technologies). 
+Compliance to the guidelines is derived from the Software Improvement Group's industry benchmark (8 billion lines of code in more than 180 different technologies). 
 
 ## Supported Languages
 
