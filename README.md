@@ -13,7 +13,7 @@ Because our society needs solutions that are innovative and sustainable
 * Has this been done before in the context of Hackathons? Yes, [Here's a write-up.](https://medium.com/softwareimprovementgroup/how-a-hackathon-appreciates-quality-code-bd1bdb8b3479)
 
 
-## How does it work?
+## How does evaluation work?
 Better Code Hub supports [16 modern programming languages](https://bettercodehub.com/docs/configuration-manual). Max repo size is 100,000 lines of code. 
 
 Your code will be automatically evaluated for compliance with these 10 guidelines for building maintainable software: 
