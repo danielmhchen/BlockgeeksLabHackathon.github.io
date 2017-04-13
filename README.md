@@ -76,7 +76,7 @@ For more details on configuration check our [configuration manual](https://bette
 
 ## Feedback on Better Code Hub
 
-Don't hesitate to send us feedback about our platform at bettercodehub@sig.eu. 
+Don't hesitate to send us feedback about our platform at [bettercodehub@sig.eu](mailto://bettercodehub@sig.eu]). 
 
 Let's build some great software 😊!
 
