@@ -1,8 +1,8 @@
 **What**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu).
 
-**When**: 21 & 22 April 2017 during [Blockgeeks Lab Hackathon](http://bglhackathon.com)
+**When**: 21 & 22 April 2017 during [Blockgeeks Lab Hackathon](http://bglhackathon.com).
 
-**Where**: [MaRS Discovery District, Toronto Canada](https://marsdd.com)
+**Where**: [MaRS Discovery District, Toronto Canada](https://marsdd.com).
 
 With Better Code Hub, you can check how good is your team's code in raport with the state of the art in software engineering. If Better Code Hub says you're compliant (✅) then it means you're performing like the top teams in the industry with regards to 10 guidelines for maintainable software. 
 
