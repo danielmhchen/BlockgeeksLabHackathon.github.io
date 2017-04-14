@@ -13,6 +13,7 @@ The guidelines are described in full in the book [“Building Maintainable Softw
 ## Supported Languages
 
 ![Languages](languages.png)
+For a full list of the supported technologies including Go and Solidity check [here](https://bettercodehub.com/docs/configuration-manual).
 
 ## If you're on GitHub you're good to go 
 
