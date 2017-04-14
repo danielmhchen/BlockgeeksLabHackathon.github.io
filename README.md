@@ -47,9 +47,10 @@ exclude:
 component_depth: 1
 languages:
 - java
+- solidity
 ~~~~
 
-Of course, you can create the configuration file directly, and place it to the root of your repository. For details check the [configuration manual](https://bettercodehub.com/docs/configuration-manual).
+Of course, you can create the configuration file directly, and place it to the root of your repository. When you have Solidity code in your repo please add - Solidity manually to the configuration file as shown in the example above. For details check the [configuration manual](https://bettercodehub.com/docs/configuration-manual).
 
 
 ## Support and PRO License 
