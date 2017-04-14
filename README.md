@@ -52,7 +52,7 @@ languages:
 
 Of course, you can create the configuration file directly, and place it to the root of your repository. For details check the [configuration manual](https://bettercodehub.com/docs/configuration-manual).
 
-* **Solidity** in your repo? To analyze Solidity please add [- solidity] to the configuration file as shown in the example above. 
+* **Solidity** in your repo? To analyze that languange too please add [- solidity] to the configuration file as shown in the example above. 
 
 
 ## Support and PRO License 
