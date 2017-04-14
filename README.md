@@ -8,7 +8,7 @@ With Better Code Hub, you can check how good your team's code scores compared wi
 
 ![10 guidelines](https://cdn-images-1.medium.com/max/1440/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
-The guidelines are described in full in the book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) - be sure to get your copy during the event! Compliance to the guidelines is derived from the Software Improvement Group's industry benchmark (8 billion lines of code, over 180 technologies). 
+The guidelines are described in full in the book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) - be sure to get your complementary copy during the event! Compliance to the guidelines is derived from the Software Improvement Group's industry benchmark (8 billion lines of code, over 180 technologies). 
 
 ## Supported Languages
 
